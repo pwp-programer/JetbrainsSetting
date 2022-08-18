@@ -1,1 +1,1 @@
-# PyCharmSettings
+# My basic settings for the Paycharm
