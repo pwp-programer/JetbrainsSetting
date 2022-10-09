@@ -1,1 +1,1 @@
-# My basic settings for the Paycharm
+# My basic settings for the Jetbrains IDE
